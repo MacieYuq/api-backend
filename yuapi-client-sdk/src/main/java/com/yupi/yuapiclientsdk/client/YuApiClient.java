@@ -16,7 +16,7 @@ import static com.yupi.yuapiclientsdk.utils.SignUtils.genSign;
 /**
  * 调用第三方接口的客户端
  *
- * @author yupi
+ * @author Macieyuq
  */
 public class YuApiClient {
 
