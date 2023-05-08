@@ -7,7 +7,7 @@ import com.yupi.yuapicommon.model.entity.Post;
 /**
  * 帖子视图
  *
- * @author yupi
+ * @author Macieyuq
  * @TableName product
  */
 @EqualsAndHashCode(callSuper = true)
