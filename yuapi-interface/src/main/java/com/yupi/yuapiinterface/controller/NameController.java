@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 名称 API
  *
- * @author yupi
+ * @author Macieyuq
  */
 @RestController
 @RequestMapping("/name")
